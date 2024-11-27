@@ -1,5 +1,6 @@
-let s:language_server_version = '1.20.8'
-let s:language_server_sha = '37f12b83df389802b7d4e293b3e1a986aca289c0'
+let s:language_server_version = '1.28.3'
+" echo 1.28.3 | sha1sum
+let s:language_server_sha = 'a191a49c3bc664b1b0f69878916f5a416aaf95dd'
 let s:root = expand('<sfile>:h:h:h')
 let s:bin = v:null
 
